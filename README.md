@@ -1,1 +1,2 @@
-# Ai-Image-Editor
+# Ai-Image-Editor 
+Creating a Minor Project
